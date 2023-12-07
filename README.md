@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Lukas Couto! 👋
 
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://draftLk.github.io/Portfolio.Lukas.github.io/)
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://draftlk.github.io/Portfolio/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukas-couto-30351a224/)
 
 [![Lukas Couto GitHub stats](https://github-readme-stats.vercel.app/api?username=draftLk&show_icons=true&theme=tokyonight)](https://github.com/draftLk)
